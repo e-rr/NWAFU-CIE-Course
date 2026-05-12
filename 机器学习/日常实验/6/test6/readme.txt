@@ -1,0 +1,1 @@
+使用朴素贝叶斯分类器，运行test.m即可，mynaive_bayesc.m进行分类，mynaive_bayest.m进行进行训练，最后稀疏混淆矩阵直观评价。
