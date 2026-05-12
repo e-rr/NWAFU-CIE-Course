@@ -317,6 +317,6 @@ hadoop fs -cat /users/1.txt 或 hdfs dfs -cat /users/1.txt
 
 hadoop jar D:/XXX.jar wordcount /user/output
 
-6. 将 D:/1.txt 传到/user 里：
+# 6. 将 D:/1.txt 传到/user 里：
 
 hadoop fs -put D:/1.txt /user
